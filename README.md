@@ -184,7 +184,7 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
   <img src="https://img.shields.io/badge/NPTEL-Certification_1-8B5CF6?style=for-the-badge"/>
 </a>
 
-<a href="">
+<a href="https://storage.googleapis.com/2026-mar-halltickets/certificate-generation-mar26/final/regular/noc26-cs40/NOC26CS40S56210025203156092.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=archive-run%40nptel-exam.iam.gserviceaccount.com%2F20260612%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260612T170237Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=3a167f6559bc9e8a565d012166da3bb611fff1a0f91ce2a57b271243efd72783eaa0de2b49b6d6b35582b566fc1cc61c9333e09b57bc7d1b0a7b4f0221f9ff504982cd6cf4ee4cc30f6d8055a6d65bc75888dcc2cf30fcad03d647527452141c75fd03cba846c9166303975fb012930e27bcd4d381ef087c59de320a6306426ff3080c666c608f124669ddfb5cd6567cc20bdd6dd0aba4b3ccbde141431a513c1ae132c61257499ec3a331a7f16023708438a5b13ebd5ca4e6b7718da6f2704fe19a09955d487af786db76b0645aa105a513a4f4b9472e8417fe8040873bc999873530e9a481ae7a83c04a9912ff00345fceddb4f571d252b08e17035ebd9494">
   <img src="https://img.shields.io/badge/NPTEL-Certification_2-7C3AED?style=for-the-badge"/>
 </a>
 
