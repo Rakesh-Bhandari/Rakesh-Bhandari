@@ -181,19 +181,8 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 ### NPTEL
 
 ![](https://img.shields.io/badge/NPTEL-Certification-7C3AED?style=for-the-badge)
-![https://nptel.ac.in/noc/E_Certificate/NOC26CS40S56210025203156092](https://img.shields.io/badge/NPTEL-Certification-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/NPTEL-Certification-8B5CF6?style=for-the-badge)
 
-### AWS
-
-![](https://img.shields.io/badge/In_Progress-Learning-4F46E5?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Future_Goal-Learning-4F46E5?style=for-the-badge)
-
-### Oracle
-
-![](https://img.shields.io/badge/Future_Goal-Learning-4F46E5?style=for-the-badge)
 
 ---
 
