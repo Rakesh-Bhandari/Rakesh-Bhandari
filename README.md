@@ -7,7 +7,7 @@
 <br/>
 
 ![](https://img.shields.io/badge/VTU-Student-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Shree+Devi+Institute+of+Technology-Mangaluru-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Shree_Devi_Institute_of_Technology-Mangaluru-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/ECE-Engineering-8B5CF6?style=for-the-badge)
 ![](https://img.shields.io/badge/India-Karnataka-4F46E5?style=for-the-badge)
 
@@ -43,7 +43,6 @@ Focused on building practical engineering solutions that combine software intell
 
 - Software Engineering Internships
 - Embedded Systems Roles
-- AI/ML Projects
 - Full Stack Development Opportunities
 - Open Source Collaboration
 - Research & Innovation Projects
@@ -84,23 +83,11 @@ Focused on building practical engineering solutions that combine software intell
 
 ---
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Beginner | Learning supervised and unsupervised learning |
-| Deep Learning | Beginner | Exploring neural networks and model architectures |
-| Computer Vision | Beginner | Image processing fundamentals |
-| Generative AI | Beginner | LLMs, prompt engineering, AI tools |
-| Data Analytics | Beginner | Data cleaning, visualization, interpretation |
-| AI Applications | Intermediate | Practical integration with software projects |
-
----
-
 ## Featured Projects
 
 <details>
-<summary><b>Embedded Systems Project</b></summary>
+<summary><b>Embedded Systems Project</b>
+</summary>
 <br/>
 
 | Metric | Details |
@@ -194,7 +181,7 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 ### NPTEL
 
 ![](https://img.shields.io/badge/NPTEL-Certification-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/NPTEL-Certification-8B5CF6?style=for-the-badge)
+![https://nptel.ac.in/noc/E_Certificate/NOC26CS40S56210025203156092](https://img.shields.io/badge/NPTEL-Certification-8B5CF6?style=for-the-badge)
 
 ### AWS
 
