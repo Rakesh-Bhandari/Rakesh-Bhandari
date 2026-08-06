@@ -57,18 +57,18 @@ Focused on building practical engineering solutions that combine software intell
 </p>
 
 ### Communication Protocols
-
-<p align="center">
+<br/>
   ![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge)
   ![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge)
   ![I²C](https://img.shields.io/badge/I²C-555555?style=for-the-badge)
   ![CAN](https://img.shields.io/badge/CAN-555555?style=for-the-badge)
   ![USB](https://img.shields.io/badge/USB-0078D6?style=for-the-badge&logo=usb&logoColor=white)
-</p>
+<br/>  
 ### Operating Systems & Scripting
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/freertos" alt="FreeRTOS" width="48" height="48"/>
+  <img src="https://freertos.org" alt="FreeRTOS Logo" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
   
