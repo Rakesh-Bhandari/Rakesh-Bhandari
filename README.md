@@ -72,8 +72,10 @@ Focused on building practical engineering solutions that combine software intell
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino"/>
-  <img src="https://cdn.simpleicons.org/kicad" alt="KiCad" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/platformio" alt="PlatformIO" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/kicad" alt="KiCad" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/platformio" alt="PlatformIO" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/stmicroelectronics" alt="STM32CubeIDE" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/c" alt="Embedded C" width="48" height="48"/>
 
 </p>
 
