@@ -65,11 +65,14 @@ Focused on building practical engineering solutions that combine software intell
 ![USB](https://img.shields.io/badge/USB-0078D6?style=for-the-badge&logo=usb&logoColor=white)
 
 ### Operating Systems & Scripting
+
 <p align="center">
   <img src="https://cdn.simpleicons.org/freertos" alt="FreeRTOS" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/windows11" alt="Windows" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/windows" alt="Windows" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/ubuntu" alt="Windows" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  
 </p>
 
 ### Tools & Softwares
