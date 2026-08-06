@@ -64,10 +64,12 @@ Focused on building practical engineering solutions that combine software intell
 ![CAN](https://img.shields.io/badge/CAN-555555?style=for-the-badge)
 ![USB](https://img.shields.io/badge/USB-0078D6?style=for-the-badge&logo=usb&logoColor=white)
 
-### Backend & Databases
-
+### Operating Systems & Scripting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://cdn.simpleicons.org/freertos" alt="FreeRTOS" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/windows11" alt="Windows" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
 </p>
 
 ### Tools & Softwares
