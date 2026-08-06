@@ -35,15 +35,14 @@
 
 ## About Me
 
-Electronics and Communication Engineering student at **Shree Devi Institute of Technology, Mangaluru (VTU)** with interests spanning Embedded Systems, Artificial Intelligence, Machine Learning, Full-Stack Development, Cloud Technologies, and Product Engineering.
+Electronics and Communication Engineering student at **Shree Devi Institute of Technology, Mangaluru (VTU)** specializing in embedded systems design, PCB development, and firmware programming in C/C++ and Embedded C. Experienced with microcontroller platforms (STM32, ESP32, ARM Cortex-M) and communication protocols (UART, SPI, I2C, CAN) through hands-on IoT and real-time embedded projects, from schematic capture and PCB layout to system integration and testing. NPTEL Elite-certified in Embedded System Design with ARM, with additional coursework in RISC-V architecture. Seeking an embedded systems engineering role to apply strong analytical, hardware debugging, and problem-solving skills to production-grade design challenges.
 
 Focused on building practical engineering solutions that combine software intelligence with hardware systems. Passionate about modern development workflows, scalable applications, IoT systems, and emerging AI technologies.
 
 ### Open To
 
-- Software Engineering Internships
 - Embedded Systems Roles
-- Full Stack Development Opportunities
+- Software Engineering Internships
 - Open Source Collaboration
 - Research & Innovation Projects
 
@@ -54,7 +53,7 @@ Focused on building practical engineering solutions that combine software intell
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python"/>
 </p>
 
 ### Frontend
@@ -69,16 +68,12 @@ Focused on building practical engineering solutions that combine software intell
   <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Tools & Softwares
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gcp,vercel"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino"/>
+  ![KiCad](https://shields.io)
 
-### Embedded & Hardware
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino"/>
 </p>
 
 ---
@@ -100,23 +95,6 @@ Focused on building practical engineering solutions that combine software intell
 | Repository | Coming Soon |
 
 Professional embedded systems implementation focused on hardware-software integration and practical engineering solutions.
-
-</details>
-
-<details>
-<summary><b>AI / ML Project</b></summary>
-<br/>
-
-| Metric | Details |
-|---|---|
-| Stack | Python |
-| Scale | Academic |
-| Performance | Model Optimization |
-| Security | Data Handling Practices |
-| Impact | Learning & Research |
-| Repository | Coming Soon |
-
-Artificial Intelligence project exploring practical applications of machine learning technologies.
 
 </details>
 
@@ -144,7 +122,7 @@ Modern web application utilizing contemporary frontend development practices.
 ### Electronics & Communication Engineering Student
 **Shree Devi Institute of Technology, Mangaluru (VTU) — 2023 – Present**
 
-Pursuing undergraduate studies in Electronics and Communication Engineering while building practical expertise across software development, embedded systems, and AI technologies.
+Pursuing undergraduate studies in Electronics and Communication Engineering while building practical expertise across embedded systems,PCB designing and AI technologies.
 
 **Scope of Work**
 
@@ -157,7 +135,7 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 **Skills**
 
-`C` `C++` `Python` `JavaScript` `React` `MySQL` `Arduino` `Git` `GitHub`
+`C` `C++` `Python` `Embedded C` `KiCad` `Linux` `Arduino` `Git` `GitHub`
 
 ---
 
@@ -169,8 +147,7 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 |---|---|
 | Engineering Education | VTU ECE Student |
 | Technical Learning | Continuous Skill Development |
-| AI/ML Learning | Active Exploration |
-| Software Development | Full Stack Development Journey |
+
 
 </div>
 
