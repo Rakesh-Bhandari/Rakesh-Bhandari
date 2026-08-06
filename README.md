@@ -72,7 +72,8 @@ Focused on building practical engineering solutions that combine software intell
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino"/>
-  <img src="https://gitlab.com" width="50" alt="KiCad Logo">
+  <img src="https://cdn.simpleicons.org/kicad" alt="KiCad" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/platformio" alt="PlatformIO" width="50" height="50"/>
 
 </p>
 
