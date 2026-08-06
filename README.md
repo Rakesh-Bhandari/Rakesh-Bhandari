@@ -67,8 +67,7 @@ Focused on building practical engineering solutions that combine software intell
 ### Operating Systems & Scripting
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/freertos" alt="FreeRTOS" width="48" height="48"/>
-  <img src="https://avatars.githubusercontent.com/u/54647343?s=200&v=4" alt="FreeRTOS Logo" width="48" height="48"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVRaMmEczlH_84yhUpzg4-yl-9Mmb4DEnvPEHxQXzutafkPj-oV4JxbUf&s=10" alt="FreeRTOS Logo" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
   
