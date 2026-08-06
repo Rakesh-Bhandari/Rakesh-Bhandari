@@ -72,7 +72,7 @@ Focused on building practical engineering solutions that combine software intell
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino"/>
-  ![KiCad](https://shields.io)
+  <img src="https://gitlab.com" width="50" alt="KiCad Logo">
 
 </p>
 
