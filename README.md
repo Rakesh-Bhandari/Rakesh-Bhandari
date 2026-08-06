@@ -68,8 +68,7 @@ Focused on building practical engineering solutions that combine software intell
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/freertos" alt="FreeRTOS" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
   
 </p>
