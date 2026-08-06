@@ -56,10 +56,14 @@ Focused on building practical engineering solutions that combine software intell
   <img src="https://skillicons.dev/icons?i=c,cpp,python"/>
 </p>
 
-### Frontend
+### Communication Protocols
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite"/>
+![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge)
+![I²C](https://img.shields.io/badge/I²C-555555?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-555555?style=for-the-badge)
+![USB](https://img.shields.io/badge/USB-0078D6?style=for-the-badge&logo=usb&logoColor=white)
 </p>
 
 ### Backend & Databases
