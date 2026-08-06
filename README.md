@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:9333EA&text=Rakesh%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Developer;PCB+Designer;Open+Source+Learner"/>
 
 <br/>
 
