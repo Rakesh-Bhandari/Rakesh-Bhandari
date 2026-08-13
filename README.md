@@ -202,25 +202,25 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 <div align="center">
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh-Bhandari&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=9333EA&area=true&hide_border=true&custom_title=Rakesh%20Kumar's%20Contribution%20Graph" width="95%"/>
 
 <br/><br/>
 
-### 🔥 GitHub Streak
+### GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=Rakesh-Bhandari&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=9333EA&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=9CA3AF" width="80%"/>
 
 <br/><br/>
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-Bhandari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=FFFFFF&ring_color=9333EA&include_all_commits=true&count_private=true" width="80%"/>
 
 <br/><br/>
 
-### 💻 Most Used Languages
+### Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-Bhandari&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" width="60%"/>
 
@@ -228,7 +228,7 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
