@@ -214,40 +214,6 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 <br/><br/>
 
-### GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Rakesh-Bhandari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=FFFFFF"
-  width="80%"
-  alt="Rakesh Kumar's GitHub Statistics"
-/>
-
-</div>
-
-<br/>
-
-### 📊 GitHub Statistics
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Rakesh-Bhandari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=FFFFFF"
-  width="80%"
-  alt="GitHub Statistics"
-/>
-
-<br/><br/>
-
-### 💻 Most Used Languages
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-Bhandari&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8"
-  width="60%"
-  alt="Most Used Languages"
-/>
-
-</div>
-
 
 ---
 
