@@ -243,6 +243,7 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 ---
 
+<div align="left">
 ## Current Focus
 
 ```yaml
@@ -264,7 +265,7 @@ Open_To:
   - Open Source Contributions
   - Electronics Core Job Roles
 ```
-
+</div>
 ---
 
 ## Connect
