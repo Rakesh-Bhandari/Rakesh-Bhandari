@@ -243,8 +243,8 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 ---
 
-<div align="left">
 ## Current Focus
+<div align="left">
 
 ```yaml
 Learning:
