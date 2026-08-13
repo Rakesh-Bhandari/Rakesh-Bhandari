@@ -208,6 +208,8 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 <br/><br/>
 
+---
+
 ### GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=Rakesh-Bhandari&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=9333EA&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=9CA3AF" width="80%"/>
@@ -227,7 +229,7 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 ---
 
-### ⚡ GitHub Activity at a Glance
+### GitHub Activity at a Glance
 
 <div align="center">
 
