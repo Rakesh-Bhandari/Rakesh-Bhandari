@@ -198,28 +198,6 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakesh-Bhandari&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-Bhandari&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-Bhandari&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rakesh-Bhandari&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -244,26 +222,22 @@ Pursuing undergraduate studies in Electronics and Communication Engineering whil
 
 ```yaml
 Learning:
-  - Artificial Intelligence
-  - Machine Learning
-  - Embedded Systems
-  - Cloud Computing
+  - Embedded C
+  - RTOS
+  - Linux Fudamentals
 
 Building:
   - Academic Engineering Projects
   - Full Stack Applications
   - IoT Solutions
-
-Exploring:
-  - Generative AI
-  - Product Engineering
-  - Open Source Development
+  - PCB Designing
 
 Open_To:
   - Internships
   - Research Opportunities
   - Engineering Collaborations
   - Open Source Contributions
+  - Electronics Core Job Roles
 ```
 
 ---
